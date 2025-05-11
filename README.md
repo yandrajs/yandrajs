@@ -14,8 +14,6 @@ Welcome to my GitHub profile! I am a student who loves technology, especially we
 ##### 🛠 Frameworks and Libraries
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=codeigniter,bootstrap,chartjs)
 
-
-
 ## 🌻 Fun Fact
 - ⚽️ **I really like football, and sometimes I also play. My favorite club is Manchester City.**
 - 🦋 **I also like watching K-Dramas. My all-time favorite dramas are Nevertheless and 2521.**
@@ -27,4 +25,5 @@ https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram
 
 ---
 
-From [Me](https://github.com/yandrajs) with 💙
+<p align="center">From Me <a href="https://github.com/yandrajs"> with 💙
+</p>
