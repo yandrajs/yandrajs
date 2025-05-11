@@ -1,4 +1,4 @@
-# Hello World!👋, I'm Yandra
+# Hello World!👋, Yandra here
 
 Welcome to my GitHub profile! I am a student who loves technology, especially web development.
 
@@ -25,5 +25,5 @@ https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram
 
 ---
 
-<p align="center">From <a href="https://github.com/yandrajs" style="text-decoration: none;" >Me</a> with 💙
+<p align="center">From <a href="https://github.com/yandrajs" style="text-decoration: none;">Me</a> with 💙
 </p>
