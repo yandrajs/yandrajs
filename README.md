@@ -25,5 +25,5 @@ https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram
 
 ---
 
-<p align="center">From <a href="https://github.com/yandrajs" style="text-decoration: none;" > Me </a>with 💙
+<p align="center">From <a href="https://github.com/yandrajs" style="text-decoration: none;" >Me</a> with 💙
 </p>
