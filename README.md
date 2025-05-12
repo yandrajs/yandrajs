@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I am a student who loves technology, especially web development.
 
 ## 🚀 About Me
-- 🌱 **I’m currently learning Laravel framework and IoT**
-- 🧑🏻 **Student with a high interest in technology**
-- 🌏 **Based on Bandung Indonesia**
+- 🌱 **I’m currently learning Laravel framework and IoT.**
+- 🧑🏻 **Student with a high interest in technology.**
+- 🌏 **Based on Bandung Indonesia.**
 
 ## 🔧 Tech Stack
 ##### 👨🏻‍💻 Programming Languages
