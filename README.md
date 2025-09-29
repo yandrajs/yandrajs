@@ -1,4 +1,4 @@
-# Hello World!👋, Yandra here
+# Hello World!👋, Yandra's here
 
 Welcome to my GitHub profile! I am a student who loves technology, especially web development.
 
