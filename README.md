@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a student who loves technology, especially we
 - 🌏 **Based on Bandung Indonesia.**
 
 ## 🔧 Tech Stack
-##### 👨🏻‍💻 Programming Languages
+##### 👨🏻‍💻 Languages
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php)
 
 ##### 🛠 Frameworks and Libraries
